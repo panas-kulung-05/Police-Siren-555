@@ -8,19 +8,15 @@ The project is ideal for beginners in electronics to understand timing circuits,
 
 Both circuits are simple, low-cost, and can be built using commonly available components.
 
-🧠 **What You Will Learn**
 
-Basics of 555 Timer IC
+🧠 **What You Will Learn** <br>
 
-Astable multivibrator operation
-
-Generating audio frequency signals
-
-LED flashing using timing circuits
-
-Practical use of resistors, capacitors, and transistors
-
-Reading and understanding basic circuit diagrams
+• Basics of 555 Timer IC
+• Astable multivibrator operation
+• Generating audio frequency signals
+• LED flashing using timing circuits
+• Practical use of resistors, capacitors, and transistors
+• Reading and understanding basic circuit diagrams
 
 
 🧩 **Project Modules**
@@ -58,8 +54,9 @@ Reading and understanding basic circuit diagrams
 | Transistor (optional) | BC547        | 1           |
 | Power Supply          | 5V–12V DC    | 1           |
 
-⚙️ Working Principle
-🔊 Police Siren Circuit Working
+
+⚙️ **Working Principle** <br>
+🔊 **Police Siren Circuit Working**
 
 One 555 timer generates a low-frequency modulation signal
 
@@ -73,19 +70,17 @@ The speaker converts the electrical signal into audible sound
 
 👉 Adjusting the potentiometer changes the siren speed and tone.
 
-💡 LED Flasher Circuit Working
 
-The 555 timer operates in astable mode
+💡 **LED Flasher Circuit Working**
 
-It continuously switches between HIGH and LOW states
+• The 555 timer operates in astable mode <br>
+• It continuously switches between HIGH and LOW states <br>
+• LEDs turn ON and OFF alternately <br>
+• This mimics a police vehicle flashing light effect <br>
+• Flashing speed depends on resistor and capacitor values <br>
 
-LEDs turn ON and OFF alternately
 
-This mimics a police vehicle flashing light effect
-
-Flashing speed depends on resistor and capacitor values
-
-🧪 Operating Modes of 555 Timer Used
+🧪 **Operating Modes of 555 Timer Used**
 
 | Mode                 | Application           |
 | -------------------- | --------------------- |
@@ -103,7 +98,7 @@ R1, R2 = Resistor values
 
 C = Capacitor value
 
-🔌 Power Supply
+🔌 **Power Supply**
 
 Operating voltage: 5V to 12V DC
 
@@ -111,17 +106,14 @@ Higher voltage → louder siren & brighter LEDs
 
 Ensure speaker power rating is sufficient
 
-🧠 Beginner Tips
+🧠 **Beginner Tips**
 
-Use a breadboard before soldering
+• Use a breadboard before soldering <br>
+• Start with low voltage (5V) <br>
+• Double-check capacitor polarity <br>
+• Use a potentiometer to tune sound smoothly <br>
 
-Start with low voltage (5V)
-
-Double-check capacitor polarity
-
-Use a potentiometer to tune sound smoothly
-
-🚀 Applications
+🚀 **Applications**
 
 • Mini police siren demo <br>
 • Electronics lab experiments <br>
