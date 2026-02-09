@@ -35,24 +35,25 @@ Both circuits are simple, low-cost, and can be built using commonly available co
 | Component     | Value          | Quantity    |
 | ------------- | -------------- | ----------- |
 | IC            | NE555 Timer    | 2           |
-| Resistor      | 1kΩ – 100kΩ    | As required |
-| Potentiometer | 100kΩ          | 1           |
+| Resistor      | 1K             | 2           |
+| Resistor      | 10K            | 2           |
+| Resistor      | 33K            | 1           |
+| Resistor      | 100K           | 1           |
 | Capacitor     | 0.01µF – 100µF | As required |
 | Speaker       | 8Ω / 0.5W      | 1           |
-| Transistor    | BC547 / 2N2222 | 1           |
-| Diode         | 1N4148         | 1           |
-| Power Supply  | 5V–12V DC      | 1           |
+| Power Supply  | (5-9)V DC      | 1           |
 
 🔹 **LED Flasher Circuit**
 
 | Component             | Value        | Quantity    |
 | --------------------- | ------------ | ----------- |
-| IC                    | NE555 Timer  | 1           |
-| Resistor              | 1kΩ – 47kΩ   | As required |
-| Capacitor             | 10µF – 100µF | As required |
-| LEDs                  | Red / Blue   | 2–4         |
-| Transistor (optional) | BC547        | 1           |
-| Power Supply          | 5V–12V DC    | 1           |
+| IC                    | NE555 Timer  | 2           |
+| Resistor              | 1MΩ          | 2           |
+| Resistor              | 68Ω          | 2           |
+| Capacitor             | 1uF          | 1           |
+| Capacitor             | 100nF        | 1           |
+| LEDs                  | Red / Blue   | 6           |
+| Power Supply          | (5-9)V DC    | 1           |
 
 
 
