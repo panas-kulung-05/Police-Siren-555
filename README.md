@@ -123,12 +123,8 @@ Use a potentiometer to tune sound smoothly
 
 🚀 Applications
 
-Mini police siren demo
-
-Electronics lab experiments
-
-Learning oscillators & timers
-
-Educational kits
-
-Hobby electronics projects
+• Mini police siren demo <br>
+• Electronics lab experiments <br>
+• Learning oscillators & timers <br>
+• Educational kits <br>
+• Hobby electronics projects <br>
