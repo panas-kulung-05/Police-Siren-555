@@ -55,6 +55,7 @@ Both circuits are simple, low-cost, and can be built using commonly available co
 | Power Supply          | 5V–12V DC    | 1           |
 
 
+
 ⚙️ **Working Principle** <br>
 🔊 **Police Siren Circuit Working** <br>
 
