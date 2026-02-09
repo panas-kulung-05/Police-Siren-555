@@ -33,8 +33,8 @@ Reading and understanding basic circuit diagrams
 | Output Stage         | Speaker and LED driver                   |
 
 
-🛠️ **Components Required**
-🔹** Police Siren Circuit**
+🛠️ **Components Required** <br>
+🔹 **Police Siren Circuit**
 
 | Component     | Value          | Quantity    |
 | ------------- | -------------- | ----------- |
@@ -47,7 +47,7 @@ Reading and understanding basic circuit diagrams
 | Diode         | 1N4148         | 1           |
 | Power Supply  | 5V–12V DC      | 1           |
 
-🔹 LED Flasher Circuit
+🔹 **LED Flasher Circuit**
 
 | Component             | Value        | Quantity    |
 | --------------------- | ------------ | ----------- |
