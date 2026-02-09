@@ -11,12 +11,12 @@ Both circuits are simple, low-cost, and can be built using commonly available co
 
 🧠 **What You Will Learn** <br>
 
-• Basics of 555 Timer IC
-• Astable multivibrator operation
-• Generating audio frequency signals
-• LED flashing using timing circuits
-• Practical use of resistors, capacitors, and transistors
-• Reading and understanding basic circuit diagrams
+• Basics of 555 Timer IC <br>
+• Astable multivibrator operation <br>
+• Generating audio frequency signals <br>
+• LED flashing using timing circuits <br>
+• Practical use of resistors, capacitors, and transistors <br>
+• Reading and understanding basic circuit diagrams <br>
 
 
 🧩 **Project Modules**
@@ -56,17 +56,13 @@ Both circuits are simple, low-cost, and can be built using commonly available co
 
 
 ⚙️ **Working Principle** <br>
-🔊 **Police Siren Circuit Working**
+🔊 **Police Siren Circuit Working** <br>
 
-One 555 timer generates a low-frequency modulation signal
-
-The second 555 timer produces an audio-frequency signal
-
-The low-frequency output continuously varies the audio frequency
-
-This creates the characteristic “wee-woo” police siren sound
-
-The speaker converts the electrical signal into audible sound
+• One 555 timer generates a low-frequency modulation signal<br>
+• The second 555 timer produces an audio-frequency signal<br>
+• The low-frequency output continuously varies the audio frequency<br>
+• This creates the characteristic “wee-woo” police siren sound<br>
+• The speaker converts the electrical signal into audible sound<br>
 
 👉 Adjusting the potentiometer changes the siren speed and tone.
 
@@ -87,7 +83,8 @@ The speaker converts the electrical signal into audible sound
 | Astable Mode         | LED flasher           |
 | Astable + Modulation | Siren sound generator |
 
-📐 Key Formula (Astable Mode)
+
+📐 **Key Formula (Astable Mode)**<br>
 
 Frequency of oscillation:
 f = 1.44 / ((R1 + 2R2) × C)
@@ -98,13 +95,13 @@ R1, R2 = Resistor values
 
 C = Capacitor value
 
+
 🔌 **Power Supply**
 
-Operating voltage: 5V to 12V DC
+• Operating voltage: 5V to 12V DC<br>
+• Higher voltage → louder siren & brighter LEDs<br>
+• Ensure speaker power rating is sufficient<br>
 
-Higher voltage → louder siren & brighter LEDs
-
-Ensure speaker power rating is sufficient
 
 🧠 **Beginner Tips**
 
@@ -112,6 +109,7 @@ Ensure speaker power rating is sufficient
 • Start with low voltage (5V) <br>
 • Double-check capacitor polarity <br>
 • Use a potentiometer to tune sound smoothly <br>
+
 
 🚀 **Applications**
 
