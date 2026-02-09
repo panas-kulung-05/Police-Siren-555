@@ -1,14 +1,14 @@
 # Police-Siren-555
 
-🚨 Police Siren & LED Flasher using 555 Timer IC
-📌 Overview
+🚨 **Police Siren & LED Flasher using 555 Timer IC**<br>
+📌 **Overview**
 
 This project demonstrates how the popular 555 Timer IC can be used to build a police siren sound generator along with a police-style LED flasher circuit.
 The project is ideal for beginners in electronics to understand timing circuits, oscillators, and basic sound & light generation techniques.
 
 Both circuits are simple, low-cost, and can be built using commonly available components.
 
-🧠 What You Will Learn
+🧠 **What You Will Learn**
 
 Basics of 555 Timer IC
 
@@ -22,7 +22,8 @@ Practical use of resistors, capacitors, and transistors
 
 Reading and understanding basic circuit diagrams
 
-🧩 Project Modules
+
+🧩 **Project Modules**
 
 | Module               | Description                              |
 | -------------------- | ---------------------------------------- |
@@ -31,8 +32,9 @@ Reading and understanding basic circuit diagrams
 | Power Supply         | 5V–12V DC operation                      |
 | Output Stage         | Speaker and LED driver                   |
 
-🛠️ Components Required
-🔹 Police Siren Circuit
+
+🛠️ **Components Required**
+🔹** Police Siren Circuit**
 
 | Component     | Value          | Quantity    |
 | ------------- | -------------- | ----------- |
