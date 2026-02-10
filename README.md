@@ -39,7 +39,10 @@ Both circuits are simple, low-cost, and can be built using commonly available co
 | Resistor      | 10K            | 2           |
 | Resistor      | 33K            | 1           |
 | Resistor      | 100K           | 1           |
-| Capacitor     | 0.01µF – 100µF | As required |
+| Capacitor     | 100nF          | 1           |
+| Capacitor     | 10uF           | 1           |
+| Capacitor     | 100uF          | 1           |
+| Capacitor     | 1000uF         | 1           |
 | Speaker       | 8Ω / 0.5W      | 1           |
 | Power Supply  | (5-9)V DC      | 1           |
 
